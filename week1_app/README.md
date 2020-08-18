@@ -1,4 +1,4 @@
-# first_app
+# week1_app
 
   Submission Project Flutter Week1 - Udacoding.
 
